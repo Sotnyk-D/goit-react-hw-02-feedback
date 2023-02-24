@@ -1,5 +1,5 @@
-import PropTypes from 'propTypes';
-import styles from './feedBackOptions.module.css';
+import PropTypes from 'prop-types';
+import styles from './FeedBackOptions.module.css';
 
 export const FeedBackOptions = ({ options, onLeaveFeedback }) => {
   return (
